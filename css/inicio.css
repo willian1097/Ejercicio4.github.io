@@ -1,0 +1,112 @@
+*{
+    background-color: teal;
+}
+
+h1{
+    color:aquamarine;
+    text-align: center;
+}
+
+p.principio{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 17px;
+}
+
+#divPadre{
+    padding: 20px;
+    height:220px;
+    width:80%;
+    text-align:center;
+    background-color:snow;
+    margin-left: 100px;
+    border-radius: 5px;
+    border-color: orangered;
+    margin-top: 15px;
+}
+
+#divHijo{
+    margin-top: 5px;
+    padding: 10px;
+    height: auto;
+    width: 220px;
+    margin-left: 0px;
+    background-color:orange;
+    border-radius: 5px;
+    border-color: red;
+    border-width: 5px;
+
+}
+
+#divHijo2{
+    border: 5px;
+    border-color: rgb(255, 74, 74);
+    margin-top: -160px;
+    height:auto;
+    width:auto;
+    margin-left: 270px;
+    background-color: snow;
+}
+
+.texto{
+    background-color: snow;
+    text-align: justify;
+}
+
+.titulo{
+    background-color: snow;
+    margin-top: -190px;
+    text-align: left;
+}
+
+#divPadreS{
+    padding: 20px;
+    height:220px;
+    width:80%;
+    text-align:center;
+    background-color:snow;
+    margin-left: 100px;
+    border-radius: 5px;
+    border-color: orangered;
+    margin-top: 15px;
+}
+
+#divHijoS{
+    margin-top: 5px;
+    padding: 10px;
+    height: auto;
+    width: 220px;
+    background-color:orange;
+    border-radius: 5px;
+    border-color: red;
+    border-width: 5px;
+    margin-left: 950px;
+
+}
+
+#divHijo2S{
+    border: 5px;
+    border-color: rgb(255, 74, 74);
+    margin-top: 20px;
+    height:auto;
+    width:75%;
+    margin-left: 0px;
+    background-color: snow;
+}
+
+.textoS{
+    margin-top: 10px;
+    background-color: snow;
+    text-align: justify;
+}
+
+.tituloS{
+    background-color: snow;
+    margin-top: -190px;
+    text-align: left;
+}
+
+.inicio{
+    text-decoration: underline;  
+    text-align: center;
+}
